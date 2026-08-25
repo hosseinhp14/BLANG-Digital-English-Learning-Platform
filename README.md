@@ -335,7 +335,7 @@ The analysis includes:
 - cohort analysis
 - interactive Power BI dashboards
 
-**[Learning Analytics Project](YOUR_ANALYTICS_REPOSITORY_LINK)**
+**[Learning Analytics Project](https://github.com/hosseinhp14/learning-analytics-portfolio)**
 
 ---
 

@@ -235,6 +235,26 @@ This separation keeps high-volume dictionary data independent from the main appl
 
 ---
 
+## Content Management & Admin
+
+BLANG includes an internal admin interface for managing the platform's content and learning data.
+
+The CMS is used to manage areas such as:
+
+- users and media
+- books, categories, genres, creators, and publishers
+- CEFR / English levels
+- learner word lists and decks
+- reading progress and daily activity statistics
+- word examples
+- activity events, progress snapshots, and session summaries
+
+This keeps content management and learner-facing functionality separated while using the same application architecture.
+
+![Admin Panel](images/admin-panel.png)
+
+---
+
 ## Tokenization & Vocabulary Flow
 
 One of the core technical parts of the platform is the text-processing pipeline.
